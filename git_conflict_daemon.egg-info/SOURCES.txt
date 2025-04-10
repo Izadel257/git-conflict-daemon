@@ -1,0 +1,10 @@
+LICENSE
+README.md
+git_conflict_daemon.py
+setup.py
+git_conflict_daemon.egg-info/PKG-INFO
+git_conflict_daemon.egg-info/SOURCES.txt
+git_conflict_daemon.egg-info/dependency_links.txt
+git_conflict_daemon.egg-info/entry_points.txt
+git_conflict_daemon.egg-info/requires.txt
+git_conflict_daemon.egg-info/top_level.txt

@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name="git-conflict-daemon",
-    version="0.1.0",
+    version="0.1.1",
     author="Paul Claudel Izabayo",
     description="Real-time Git merge conflict detector with popup and tray icon",
     py_modules=["git_conflict_daemon"],

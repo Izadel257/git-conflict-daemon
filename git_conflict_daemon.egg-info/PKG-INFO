@@ -1,0 +1,19 @@
+Metadata-Version: 2.4
+Name: git-conflict-daemon
+Version: 0.1.1
+Summary: Real-time Git merge conflict detector with popup and tray icon
+Author: Paul Claudel Izabayo
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+License-File: LICENSE
+Requires-Dist: GitPython
+Requires-Dist: watchdog
+Requires-Dist: pystray
+Requires-Dist: Pillow
+Dynamic: author
+Dynamic: classifier
+Dynamic: license-file
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary

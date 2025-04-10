@@ -1,0 +1,4 @@
+GitPython
+watchdog
+pystray
+Pillow
